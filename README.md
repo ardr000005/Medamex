@@ -93,7 +93,7 @@ Logs are maintained for all hospital activities.
 Congratulations!
 The MedAmex system is now up and running. Thank you for contributing to this innovative project to revolutionize healthcare data management.
 
-##Deploying Smart Contract
+## Deploying Smart Contract
 
 Initialize node
 
